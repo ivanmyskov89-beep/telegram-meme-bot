@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.env
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+images/
+*.jpg
+*.png
+*.jpeg
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
